@@ -1,0 +1,8 @@
+Encoding error:
+----------------
+Remember to put 
+	# -*- coding: utf-8 -*- 
+at the top if you use non-ASCII characters and get an encoding error.
+
+To read about python functions use the following command:
+	python -m pydoc function_name
